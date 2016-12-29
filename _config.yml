@@ -1,10 +1,10 @@
 # Site settings
 title: Junichi
 subtitle: Shimizu
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+email: jun.shimi@kmd.keio.ac.jp
+description: I’m a researcher in the filed of<br /> Wearable Computing / Human Computer Interaction / Eye tracking.
+# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "http://junichishmz.com" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
