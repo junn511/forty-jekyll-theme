@@ -25,6 +25,7 @@ nav-menu: true
 </section>
 
 <div id="main">
+
   <section id="one">
   <div class="inner"><header class="major">
 

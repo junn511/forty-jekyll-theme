@@ -1,11 +1,15 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hello, my name is Junichi Shimizu'
+landing-title: 'Hi there!  My name is Junichi Shimizu'
 description: null
 image: null
 author: null
 ---
 
-This is Test
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Graduate School of Media Design, Keio University.
+Geist Project / Reality Media Group
+
+I’m interested in exploring patterns in human behavior and physiological signals that can reveal information about our mind. The main goal is to enhance an attention, memory, focus, problem solving, decision making and comprehension.
+
+
